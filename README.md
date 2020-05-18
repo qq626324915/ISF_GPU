@@ -1,6 +1,6 @@
 Title of the manuscript: A fast method for calculation of marine gravity anomaly.
 Name of the program: ISF_GPU.m.
-Author details: Yuan Fang, Jun Wang, Xiaohong Meng, Yongkang Gan, Hanhan Tang
+Author details: Yuan Fang, Jun Wang, Xiaohong Meng, Yongkang Gan, Hanhan Tang.
                 School of Geophysics and Information Technology, China University
                 of Geosciences, Beijing 100083, China.
 Emails: fangyuan_cugb@foxmail.com;
